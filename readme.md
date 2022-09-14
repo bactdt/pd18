@@ -82,5 +82,4 @@ pax-manager.myparallels.com
 myparallels.com
 my.parallels.com
 ```
-感谢:
-[@somebasj](https://github.com/somebasj)所做的贡献
+感谢大佬[@somebasj](https://github.com/somebasj)的维护
