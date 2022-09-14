@@ -83,4 +83,4 @@ myparallels.com
 my.parallels.com
 ```
 感谢:
-*[@somebasj](https://github.com/somebasj)
+[@somebasj](https://github.com/somebasj)所做的贡献
