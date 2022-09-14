@@ -1,5 +1,6 @@
 # 汉化. 
-文件来自于https://github.com/bactdt/ParallelsDesktopCrack
+搬运于https://github.com/bactdt/ParallelsDesktopCrack
+原作者库已消失
 
 只适合Parallels Desktop 18.0.1-53056
 
@@ -81,3 +82,5 @@ pax-manager.myparallels.com
 myparallels.com
 my.parallels.com
 ```
+感谢
+@somebasj
