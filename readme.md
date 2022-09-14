@@ -82,5 +82,5 @@ pax-manager.myparallels.com
 myparallels.com
 my.parallels.com
 ```
-感谢
-@somebasj
+感谢:
+*[@somebasj]https://github.com/somebasj
