@@ -1,6 +1,5 @@
 # 汉化. 
 搬运于https://github.com/bactdt/ParallelsDesktopCrack
-原作者库已消失
 
 只适合Parallels Desktop 18.0.1-53056
 
